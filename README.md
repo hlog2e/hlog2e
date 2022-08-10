@@ -4,7 +4,7 @@
 #### Front-End
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/><&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>&nbsp;
 #### Back-End
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp; 
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=5C3EE8&logoColor=white"/>&nbsp; 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp; 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>&nbsp; 
-<img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=41BDF5&logoColor=white"/>&nbsp; 
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=A22846&logoColor=white"/>&nbsp; 
+<img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=Home%20Assistant&logoColor=white"/>&nbsp; 
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white"/>&nbsp; 
 
 ## Status
