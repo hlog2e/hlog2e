@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=065ac9&height=350&section=header&text=HongRok%20Kim&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=065ac9&height=300&section=header&text=HongRok%20K.&fontSize=80&animation=fadeIn&fontColor=FFFFFF)
 
 
 
