@@ -30,41 +30,17 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhlog2e&count_bg=%2358CAFB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
 [![HongRok's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlog2e)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 473 Contributions in the Year 2022
- > 
-> 📦 43.8 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 8 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.91% 
-🌆 Daytime    136 commits    ██████░░░░░░░░░░░░░░░░░░░   27.04% 
-🌃 Evening    155 commits    ███████░░░░░░░░░░░░░░░░░░   30.82% 
-🌙 Night      137 commits    ██████░░░░░░░░░░░░░░░░░░░   27.24%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       78 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.51% 
-Tuesday      86 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.1% 
-Wednesday    105 commits    █████░░░░░░░░░░░░░░░░░░░░   20.87% 
-Thursday     56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.13% 
-Friday       67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.32% 
-Saturday     56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.13% 
-Sunday       55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.93%
+🌞 Morning    75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.88% 
+🌆 Daytime    136 commits    ██████░░░░░░░░░░░░░░░░░░░   26.98% 
+🌃 Evening    156 commits    ███████░░░░░░░░░░░░░░░░░░   30.95% 
+🌙 Night      137 commits    ██████░░░░░░░░░░░░░░░░░░░   27.18%
 
 ```
 
@@ -95,21 +71,6 @@ Mac                      37 hrs 35 mins      ███████████�
 
 ```
 
-**I Mostly Code in JavaScript** 
 
-```text
-JavaScript               12 repos            ███████████████░░░░░░░░░░   60.0% 
-Python                   6 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/hlog2e/hlog2e/main/charts/bar_graph.png) 
-
-
- Last Updated on 19/08/2022 12:15:24 UTC
+ Last Updated on 19/08/2022 12:24:27 UTC
 <!--END_SECTION:waka-->
