@@ -34,29 +34,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 473 Contributions in the Year 2022
- > 
-> 📦 43.8 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 8 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.85% 
-🌆 Daytime    136 commits    ██████░░░░░░░░░░░░░░░░░░░   26.93% 
-🌃 Evening    157 commits    ███████░░░░░░░░░░░░░░░░░░   31.09% 
-🌙 Night      137 commits    ██████░░░░░░░░░░░░░░░░░░░   27.13%
-
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -78,5 +55,5 @@ Mac                      37 hrs 35 mins      ███████████�
 ```
 
 
- Last Updated on 19/08/2022 12:38:03 UTC
+ Last Updated on 19/08/2022 12:47:10 UTC
 <!--END_SECTION:waka-->
