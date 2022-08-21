@@ -30,7 +30,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhlog2e&count_bg=%2358CAFB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
 [![HongRok's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlog2e)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51%20Thousand%20lines%20of%20code-blue)
 
@@ -40,20 +40,20 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               32 hrs 46 mins      █████████████████████░░░░   87.21% 
-JSON                     1 hr 12 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.22% 
-Bash                     1 hr 12 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.21% 
-Docker                   55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.48% 
-YAML                     41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85%
+JavaScript               26 hrs 51 mins      ██████████████████████░░░   90.95% 
+JSON                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.21% 
+Bash                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59% 
+CSS                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81% 
+SCSS                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72%
 
 🔥 Editors: 
-VS Code                  37 hrs 35 mins      █████████████████████████   100.0%
+VS Code                  29 hrs 31 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      37 hrs 35 mins      █████████████████████████   100.0%
+Mac                      29 hrs 31 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 20/08/2022 18:44:56 UTC
+ Last Updated on 21/08/2022 18:45:56 UTC
 <!--END_SECTION:waka-->
