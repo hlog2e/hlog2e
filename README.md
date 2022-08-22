@@ -30,7 +30,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhlog2e&count_bg=%2358CAFB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
 [![HongRok's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlog2e)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51%20Thousand%20lines%20of%20code-blue)
 
@@ -40,20 +40,20 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               26 hrs 51 mins      ██████████████████████░░░   90.95% 
-JSON                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.21% 
-Bash                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59% 
-CSS                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81% 
-SCSS                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72%
+JavaScript               24 hrs 27 mins      ███████████████████████░░   93.63% 
+Bash                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91% 
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.28% 
+CSS                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9% 
+SCSS                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
 
 🔥 Editors: 
-VS Code                  29 hrs 31 mins      █████████████████████████   100.0%
+VS Code                  26 hrs 6 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      29 hrs 31 mins      █████████████████████████   100.0%
+Mac                      26 hrs 6 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 21/08/2022 18:45:56 UTC
+ Last Updated on 22/08/2022 18:48:17 UTC
 <!--END_SECTION:waka-->
