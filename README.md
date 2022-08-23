@@ -30,7 +30,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhlog2e&count_bg=%2358CAFB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
 [![HongRok's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlog2e)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51%20Thousand%20lines%20of%20code-blue)
 
@@ -40,20 +40,20 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               24 hrs 27 mins      ███████████████████████░░   93.63% 
-Bash                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91% 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.28% 
-CSS                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9% 
-SCSS                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
+JavaScript               17 hrs 45 mins      ███████████████████████░░   94.3% 
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.77% 
+CSS                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22% 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9% 
+HTML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
 
 🔥 Editors: 
-VS Code                  26 hrs 6 mins       █████████████████████████   100.0%
+VS Code                  18 hrs 49 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      26 hrs 6 mins       █████████████████████████   100.0%
+Mac                      18 hrs 49 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 22/08/2022 18:48:17 UTC
+ Last Updated on 23/08/2022 18:46:57 UTC
 <!--END_SECTION:waka-->
