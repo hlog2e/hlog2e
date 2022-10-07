@@ -40,18 +40,16 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 14 mins             ███████████████████████░░   92.07% 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.96% 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.97%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      16 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 06/10/2022 19:03:18 UTC
+ Last Updated on 07/10/2022 18:59:12 UTC
 <!--END_SECTION:waka-->
