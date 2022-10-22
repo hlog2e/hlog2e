@@ -30,7 +30,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhlog2e&count_bg=%2358CAFB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
 [![HongRok's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlog2e)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-105%20Thousand%20lines%20of%20code-blue)
 
@@ -40,20 +40,20 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               8 hrs 8 mins        ████████████████████████░   97.21% 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.4% 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+JavaScript               12 hrs 7 mins       ████████████████████████░   98.11% 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63% 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 🔥 Editors: 
-VS Code                  8 hrs 22 mins       █████████████████████████   100.0%
+VS Code                  12 hrs 21 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      8 hrs 22 mins       █████████████████████████   100.0%
+Mac                      12 hrs 21 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 21/10/2022 18:58:49 UTC
+ Last Updated on 22/10/2022 18:53:25 UTC
 <!--END_SECTION:waka-->
