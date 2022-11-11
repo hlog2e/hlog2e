@@ -30,7 +30,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhlog2e&count_bg=%2358CAFB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
 [![HongRok's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlog2e)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-113%20Thousand%20lines%20of%20code-blue)
 
@@ -40,20 +40,20 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               8 hrs 11 mins       ████████████████████████░   97.37% 
-CSS                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41% 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+JavaScript               5 hrs 4 mins        ████████████████████████░   95.83% 
+CSS                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.24% 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 🔥 Editors: 
-VS Code                  8 hrs 25 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 18 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      8 hrs 25 mins       █████████████████████████   100.0%
+Mac                      5 hrs 18 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 10/11/2022 18:50:03 UTC
+ Last Updated on 11/11/2022 18:49:20 UTC
 <!--END_SECTION:waka-->
