@@ -30,7 +30,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhlog2e&count_bg=%2358CAFB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
 [![HongRok's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlog2e)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89%20Thousand%20lines%20of%20code-blue)
 
@@ -40,17 +40,17 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               2 hrs 10 mins       ████████████████████████░   96.24% 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.76%
+JavaScript               1 hr 46 mins        ███████████████████████░░   95.43% 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.57%
 
 🔥 Editors: 
-WebStorm                 2 hrs 15 mins       █████████████████████████   100.0%
+WebStorm                 1 hr 51 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      2 hrs 15 mins       █████████████████████████   100.0%
+Mac                      1 hr 51 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 02/01/2023 18:41:17 UTC
+ Last Updated on 03/01/2023 18:39:48 UTC
 <!--END_SECTION:waka-->
