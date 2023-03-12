@@ -30,9 +30,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhlog2e&count_bg=%2358CAFB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
 [![HongRok's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlog2e)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%203%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-305.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-358.6%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -40,20 +40,20 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               6 hrs 2 mins        █████████████████████░░░░   84.68 % 
-Other                    53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+JavaScript               5 hrs 38 mins       █████████████████████░░░░   83.75 % 
+Other                    53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 SourceMap                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-WebStorm                 6 hrs 14 mins       ██████████████████████░░░   87.46 % 
-VS Code                  53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+WebStorm                 5 hrs 50 mins       ██████████████████████░░░   86.70 % 
+VS Code                  53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
 
 💻 Operating System: 
-Mac                      7 hrs 8 mins        █████████████████████████   100.00 % 
+Mac                      6 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/03/2023 18:34:08 UTC
+ Last Updated on 12/03/2023 18:34:09 UTC
 <!--END_SECTION:waka-->
