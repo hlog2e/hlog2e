@@ -30,9 +30,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhlog2e&count_bg=%2358CAFB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
 [![HongRok's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlog2e)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2010%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-477.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-477.9%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -40,20 +40,20 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               1 hr 23 mins        ███████████░░░░░░░░░░░░░░   45.90 % 
-JSON                     1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   39.34 % 
-Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-GitIgnore file           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-.env file                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+JavaScript               4 hrs 8 mins        ████████████░░░░░░░░░░░░░   49.85 % 
+JSON                     3 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   39.66 % 
+Text                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+GitIgnore file           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🔥 Editors: 
-WebStorm                 3 hrs 1 min         █████████████████████████   99.45 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+WebStorm                 8 hrs 17 mins       █████████████████████████   99.80 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Mac                      3 hrs 2 mins        █████████████████████████   100.00 % 
+Mac                      8 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/07/2023 18:37:39 UTC
+ Last Updated on 13/07/2023 18:37:35 UTC
 <!--END_SECTION:waka-->
