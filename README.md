@@ -30,9 +30,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhlog2e&count_bg=%2358CAFB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
 [![HongRok's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlog2e)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-400%20hrs%2041%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-467.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-467.9%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -40,19 +40,19 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               19 hrs 59 mins      ███████████████████████░░   92.31 % 
-TSConfig                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-ActionScript             22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-Bash                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+TypeScript               24 hrs 49 mins      ████████████████████████░   94.72 % 
+ActionScript             22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+TSConfig                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 39 mins      █████████████████████████   100.00 % 
+VS Code                  26 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      21 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/09/2023 18:33:01 UTC
+ Last Updated on 05/09/2023 18:33:31 UTC
 <!--END_SECTION:waka-->
