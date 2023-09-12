@@ -30,7 +30,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhlog2e&count_bg=%2358CAFB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
 [![HongRok's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlog2e)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-470.4%20thousand%20lines%20of%20code-blue)
 
@@ -40,19 +40,19 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               31 hrs 5 mins       ██████████████████████░░░   86.57 % 
-JavaScript               1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Bash                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-JSON                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-YAML                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+TypeScript               25 hrs 55 mins      ████████████████████░░░░░   80.73 % 
+JavaScript               2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Bash                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+JSON                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+YAML                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-VS Code                  35 hrs 55 mins      █████████████████████████   100.00 % 
+VS Code                  32 hrs 6 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      35 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      32 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/09/2023 18:33:52 UTC
+ Last Updated on 12/09/2023 18:33:20 UTC
 <!--END_SECTION:waka-->
