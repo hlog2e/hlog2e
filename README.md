@@ -30,7 +30,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhlog2e&count_bg=%2358CAFB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
 [![HongRok's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlog2e)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%2012%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-474.9%20thousand%20lines%20of%20code-blue)
 
@@ -40,17 +40,17 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               33 mins             ████████████████████████░   96.44 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+JavaScript               2 hrs 15 mins       █████████████████████████   98.50 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-VS Code                  35 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 17 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      35 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/10/2023 18:35:47 UTC
+ Last Updated on 19/10/2023 18:34:46 UTC
 <!--END_SECTION:waka-->
