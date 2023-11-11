@@ -8,9 +8,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhlog2e&count_bg=%2358CAFB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
 [![HongRok's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlog2e)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-495%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-501%20hrs%2036%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-495.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-513.2%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -18,19 +18,18 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               24 hrs 7 mins       ████████████████████████░   94.50 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-XML                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+JavaScript               25 hrs 8 mins       ████████████████████████░   94.43 % 
+Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+XML                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 31 mins      █████████████████████████   100.00 % 
+VS Code                  26 hrs 37 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      25 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/11/2023 18:33:48 UTC
+ Last Updated on 11/11/2023 18:32:56 UTC
 <!--END_SECTION:waka-->
