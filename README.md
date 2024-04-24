@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=065ac9&height=300&section=header&text=HongRok%20K.&fontSize=80&animation=fadeIn&fontColor=FFFFFF&fontAlignY=45)
-
-## Link
+## Contact
 <a href="https://instagram.com/_hongrok"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/HongRok @hlog2e-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>&nbsp;
 
