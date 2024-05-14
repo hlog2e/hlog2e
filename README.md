@@ -6,7 +6,7 @@
 
 [![HongRok's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlog2e)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-596%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-513.2%20thousand%20lines%20of%20code-blue)
 
@@ -30,5 +30,5 @@ Mac                      17 hrs 23 mins      ███████████�
 ```
 
 
- Last Updated on 13/05/2024 18:34:14 UTC
+ Last Updated on 14/05/2024 18:35:30 UTC
 <!--END_SECTION:waka-->
