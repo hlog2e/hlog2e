@@ -6,9 +6,9 @@
 
 [![HongRok's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlog2e)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-607%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-609%20hrs%2018%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-513.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-514.1%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -16,19 +16,19 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               8 hrs 39 mins       ███████████████████████░░   93.12 % 
-Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+TypeScript               10 hrs 27 mins      ███████████████████████░░   92.58 % 
+Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 17 mins       █████████████████████████   100.00 % 
+VS Code                  11 hrs 17 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/05/2024 18:35:41 UTC
+ Last Updated on 22/05/2024 18:36:06 UTC
 <!--END_SECTION:waka-->
