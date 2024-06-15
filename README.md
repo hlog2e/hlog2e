@@ -4,7 +4,7 @@
 
 ## Status
 
-[![HongRok's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlog2e)](https://github.com/anuraghazra/github-readme-stats)
+[![HongRok's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlog2e&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-645%20hrs%2045%20mins-blue)
 
