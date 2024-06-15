@@ -6,9 +6,7 @@
 
 [![HongRok's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlog2e&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-645%20hrs%2045%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-516.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-517.1%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -16,19 +14,19 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               13 hrs 39 mins      ████████████████████████░   95.12 % 
-JavaScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+TypeScript               13 hrs 39 mins      ████████████████████████░   94.12 % 
+JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+TSConfig                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 21 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 31 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      14 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/06/2024 18:38:02 UTC
+ Last Updated on 15/06/2024 18:36:16 UTC
 <!--END_SECTION:waka-->
