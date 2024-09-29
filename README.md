@@ -5,7 +5,7 @@
 ## Status
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-718%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-718%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-581.8%20thousand%20lines%20of%20code-blue)
 
@@ -15,16 +15,16 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               2 hrs 32 mins       █████████████████████████   99.54 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+TypeScript               2 hrs 49 mins       █████████████████████████   99.59 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 50 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/09/2024 18:40:03 UTC
+ Last Updated on 29/09/2024 18:40:38 UTC
 <!--END_SECTION:waka-->
