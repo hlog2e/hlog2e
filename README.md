@@ -9,23 +9,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-636.9%20thousand%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-TypeScript               3 hrs 25 mins       █████████████████████████   99.87 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-
-🔥 Editors: 
-Cursor                   3 hrs 26 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      3 hrs 26 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 13/03/2025 18:38:56 UTC
+ Last Updated on 14/03/2025 18:38:35 UTC
 <!--END_SECTION:waka-->
