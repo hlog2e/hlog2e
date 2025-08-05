@@ -5,27 +5,10 @@
 ## Status
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-993%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-993%20hrs%2025%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-720.5%20thousand%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-TypeScript               21 mins             █████████████████████████   99.85 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-🔥 Editors: 
-Cursor                   21 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      21 mins             █████████████████████████   100.00 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-720.9%20thousand%20lines%20of%20code-blue)
 
 
- Last Updated on 04/08/2025 18:43:55 UTC
+ Last Updated on 05/08/2025 18:44:07 UTC
 <!--END_SECTION:waka-->
