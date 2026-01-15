@@ -5,9 +5,9 @@
 ## Status
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C279%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C281%20hrs%2044%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-944.98%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-946.76%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -15,18 +15,17 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               7 hrs 53 mins       ████████████████████████░   97.44 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+TypeScript               7 hrs 32 mins       ████████████████████████░   97.42 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Cursor                   8 hrs 5 mins        █████████████████████████   100.00 % 
+Cursor                   7 hrs 44 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 5 mins        █████████████████████████   100.00 % 
+Mac                      7 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/01/2026 18:45:06 UTC
+ Last Updated on 15/01/2026 18:45:17 UTC
 <!--END_SECTION:waka-->
