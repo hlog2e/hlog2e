@@ -15,22 +15,22 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               28 hrs 11 mins      █████████████████████░░░░   83.06 % 
-Markdown                 3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Other                    1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Swift                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+TypeScript               23 hrs 50 mins      ██████████████████████░░░   87.54 % 
+Markdown                 1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Other                    1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Swift                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-Cursor                   25 hrs 27 mins      ███████████████████░░░░░░   75.00 % 
-Unknown Editor           7 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
-VS Code                  45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Claude Code              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Cursor                   20 hrs 23 mins      ███████████████████░░░░░░   74.87 % 
+Unknown Editor           6 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+VS Code                  44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Claude Code              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Mac                      33 hrs 56 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/05/2026 18:51:53 UTC
+ Last Updated on 31/05/2026 18:53:27 UTC
 <!--END_SECTION:waka-->
