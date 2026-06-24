@@ -5,7 +5,7 @@
 ## Status
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C640%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C641%20hrs%2030%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.42%20million%20lines%20of%20code-blue?style=flat)
 
@@ -15,21 +15,21 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               5 hrs 21 mins       ███████████████░░░░░░░░░░   58.51 % 
-Markdown                 2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
-JSON                     1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Kotlin                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+TypeScript               3 hrs 26 mins       ██████████████░░░░░░░░░░░   57.38 % 
+JSON                     1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Markdown                 1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 23 mins       ████████████░░░░░░░░░░░░░   47.94 % 
-Claude Code              3 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   37.44 % 
-VS Code                  1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Claude Code              4 hrs 4 mins        █████████████████░░░░░░░░   68.12 % 
+VS Code                  1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+Cursor                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
 
 💻 Operating System: 
-Mac                      9 hrs 10 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/06/2026 19:15:18 UTC
+ Last Updated on 24/06/2026 19:06:54 UTC
 <!--END_SECTION:waka-->
