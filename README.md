@@ -15,17 +15,18 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 1 hr 5 mins         ███████████████░░░░░░░░░░   60.76 % 
-TypeScript               42 mins             ██████████░░░░░░░░░░░░░░░   39.24 % 
+Markdown                 1 hr 5 mins         ███████████████░░░░░░░░░░   58.46 % 
+TypeScript               42 mins             █████████░░░░░░░░░░░░░░░░   37.75 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 
 🔥 Editors: 
-Claude Code              59 mins             ██████████████░░░░░░░░░░░   55.75 % 
-VS Code                  47 mins             ███████████░░░░░░░░░░░░░░   44.25 % 
+Claude Code              59 mins             █████████████░░░░░░░░░░░░   53.64 % 
+VS Code                  51 mins             ████████████░░░░░░░░░░░░░   46.36 % 
 
 💻 Operating System: 
-Mac                      1 hr 47 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/07/2026 19:38:24 UTC
+ Last Updated on 13/07/2026 19:58:15 UTC
 <!--END_SECTION:waka-->
