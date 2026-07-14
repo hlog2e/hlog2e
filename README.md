@@ -5,7 +5,7 @@
 ## Status
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C647%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C647%20hrs%2033%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.47%20million%20lines%20of%20code-blue?style=flat)
 
@@ -15,18 +15,18 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 1 hr 5 mins         ███████████████░░░░░░░░░░   58.46 % 
-TypeScript               42 mins             █████████░░░░░░░░░░░░░░░░   37.75 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Markdown                 1 hr 3 mins         ████████████████████░░░░░   79.07 % 
+TypeScript               12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 
 🔥 Editors: 
-Claude Code              59 mins             █████████████░░░░░░░░░░░░   53.64 % 
-VS Code                  51 mins             ████████████░░░░░░░░░░░░░   46.36 % 
+Claude Code              46 mins             ██████████████░░░░░░░░░░░   57.91 % 
+VS Code                  33 mins             ███████████░░░░░░░░░░░░░░   42.09 % 
 
 💻 Operating System: 
-Mac                      1 hr 51 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/07/2026 19:58:15 UTC
+ Last Updated on 14/07/2026 19:52:31 UTC
 <!--END_SECTION:waka-->
