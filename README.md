@@ -5,8 +5,6 @@
 ## Status
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C654%20hrs%2044%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.48%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -15,20 +13,20 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               5 hrs 55 mins       ██████████████░░░░░░░░░░░   56.26 % 
-Markdown                 4 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   39.03 % 
-JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+TypeScript               4 hrs 16 mins       ███████████████░░░░░░░░░░   60.34 % 
+Markdown                 2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   32.28 % 
+JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 50 mins       █████████████████████░░░░   83.91 % 
-Claude Code              1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+VS Code                  6 hrs 41 mins       ████████████████████████░   94.29 % 
+Claude Code              24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 
 💻 Operating System: 
-Mac                      10 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      7 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/07/2026 19:53:22 UTC
+ Last Updated on 23/07/2026 19:55:43 UTC
 <!--END_SECTION:waka-->
