@@ -5,7 +5,9 @@
 ## Status
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C740%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C705%20hrs%203%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-404%20hrs%2037%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.48%20million%20lines%20of%20code-blue?style=flat)
 
@@ -29,6 +31,30 @@ Claude Code              25 mins             █░░░░░░░░░░�
 Mac                      11 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 26/07/2026 19:44:36 UTC
+```text
+⏱ AI Coding Time: 11 hrs 16 mins (99.89%)
+
+✍️ 10,157 lines written by AI, 2 lines written by hand (99.98% AI-written)
+
+🔤 196,640,321 Input Tokens, 999,348 Output Tokens
+
+💵 $615.85 Estimated AI Cost This Week
+
+🧠 14 AI Sessions, 84 AI Prompts
+
+Fable                    10,351 lines        █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.98% of written lines came from AI
+📚 Verbose Prompter — average 7,478 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
+```
+
+
+ Last Updated on 27/07/2026 20:03:57 UTC
 <!--END_SECTION:waka-->
