@@ -5,9 +5,9 @@
 ## Status
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C731%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C731%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-432%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-432%20hrs%2037%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.50%20million%20lines%20of%20code-blue?style=flat)
 
@@ -17,39 +17,39 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               13 mins             █████████████████████████   100.00 % 
+JavaScript               4 mins              ████████████████░░░░░░░░░   63.20 % 
+Markdown                 2 mins              █████████░░░░░░░░░░░░░░░░   36.80 % 
 
 🔥 Editors: 
-Claude Code              13 mins             ████████████████████████░   97.58 % 
-VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Claude Code              7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.00 % 
+Mac                      7 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (100.0%)
+⏱ AI Coding Time: 7 mins (100.0%)
 
-✍️ 58 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 315 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 101,078 Input Tokens, 18,340 Output Tokens
+🔤 645,001 Input Tokens, 21,760 Output Tokens
 
-💵 $32.63 Estimated AI Cost This Week
+💵 $43.34 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
-Opus                     185 lines           █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    315 lines           ███████████████████░░░░░░   74.12 % 
+Opus                     110 lines           ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 341 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 98 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/08/2026 19:07:45 UTC
+ Last Updated on 19/08/2026 19:02:33 UTC
 <!--END_SECTION:waka-->
