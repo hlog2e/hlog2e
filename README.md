@@ -11,45 +11,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.50%20million%20lines%20of%20code-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-JavaScript               4 mins              ████████████████░░░░░░░░░   63.20 % 
-Markdown                 2 mins              █████████░░░░░░░░░░░░░░░░   36.80 % 
-
-🔥 Editors: 
-Claude Code              7 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 7 mins (100.0%)
-
-✍️ 315 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 645,001 Input Tokens, 21,760 Output Tokens
-
-💵 $43.34 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-Fable                    315 lines           ███████████████████░░░░░░   74.12 % 
-Opus                     110 lines           ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 98 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
-
- Last Updated on 19/08/2026 19:02:33 UTC
+ Last Updated on 20/08/2026 19:11:30 UTC
 <!--END_SECTION:waka-->
