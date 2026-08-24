@@ -17,38 +17,40 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               4 mins              ████████████████░░░░░░░░░   63.20 % 
-Markdown                 2 mins              █████████░░░░░░░░░░░░░░░░   36.80 % 
+TypeScript               4 mins              ██████████░░░░░░░░░░░░░░░   40.76 % 
+JavaScript               4 mins              █████████░░░░░░░░░░░░░░░░   37.44 % 
+Markdown                 2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
 
 🔥 Editors: 
-Claude Code              7 mins              █████████████████████████   100.00 % 
+Claude Code              12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+Mac                      12 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (100.0%)
+⏱ AI Coding Time: 12 mins (100.0%)
 
 ✍️ 315 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 645,001 Input Tokens, 21,760 Output Tokens
+🔤 890,054 Input Tokens, 22,545 Output Tokens
 
-💵 $12.85 Estimated AI Cost This Week
+💵 $13.23 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
 Fable                    315 lines           █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 98 characters per prompt
+📝 Concise Prompter — average 78 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/08/2026 18:56:35 UTC
+ Last Updated on 24/08/2026 19:11:49 UTC
 <!--END_SECTION:waka-->
