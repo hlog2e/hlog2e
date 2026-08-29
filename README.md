@@ -17,37 +17,42 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               4 mins              █████████████████████████   100.00 % 
+Markdown                 1 hr 22 mins        ██████████████████░░░░░░░   73.88 % 
+TypeScript               17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+SQL                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 🔥 Editors: 
-Claude Code              4 mins              █████████████████████████   100.00 % 
+Claude Code              1 hr 41 mins        ███████████████████████░░   91.20 % 
+VS Code                  9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+Mac                      1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (100.0%)
+⏱ AI Coding Time: 1 hr 50 mins (98.9%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 410 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 245,053 Input Tokens, 785 Output Tokens
+🔤 2,284,986 Input Tokens, 291,222 Output Tokens
 
-💵 $0.37 Estimated AI Cost This Week
+💵 $51.24 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 6 AI Sessions, 17 AI Prompts
 
+Fable                    410 lines           █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 58 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 640 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/08/2026 02:16:56 UTC
+ Last Updated on 29/08/2026 01:51:54 UTC
 <!--END_SECTION:waka-->
