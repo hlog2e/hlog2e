@@ -9,7 +9,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-457%20hrs%2017%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.75%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.76%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -17,48 +17,48 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 9 hrs 44 mins       █████████████░░░░░░░░░░░░   51.70 % 
-Other                    3 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-TypeScript               1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Python                   1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Markdown                 9 hrs 41 mins       ██████████████░░░░░░░░░░░   55.32 % 
+Other                    3 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+TypeScript               1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Python                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 23 mins      ███████████████░░░░░░░░░░   60.38 % 
-Codex Vscode             3 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Claude Code              2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Codex CLI                1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+VS Code                  11 hrs 11 mins      ████████████████░░░░░░░░░   63.92 % 
+Codex Vscode             2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Codex CLI                1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Claude Code              1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 
 💻 Operating System: 
-Mac                      18 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 51 mins (100.0%)
+⏱ AI Coding Time: 17 hrs 31 mins (100.0%)
 
-✍️ 13,327 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 10,693 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 21,155,716 Input Tokens, 1,769,496 Output Tokens
+🔤 20,041,815 Input Tokens, 1,555,277 Output Tokens
 
-💵 $559.21 Estimated AI Cost This Week
+💵 $522.59 Estimated AI Cost This Week
 
-🧠 140 AI Sessions, 376 AI Prompts
+🧠 132 AI Sessions, 355 AI Prompts
 
-GPT                      9,934 lines         ███████████████████░░░░░░   76.01 % 
-Fable                    2,574 lines         █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-Codex-Vscode             487 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Codex-Cli                75 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+GPT                      9,771 lines         ████████████████████████░   94.26 % 
+Codex-Vscode             356 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Fable                    164 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Codex-Cli                75 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 16,396 characters per prompt
+📚 Verbose Prompter — average 16,795 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/09/2026 20:55:00 UTC
+ Last Updated on 20/09/2026 20:59:50 UTC
 <!--END_SECTION:waka-->
