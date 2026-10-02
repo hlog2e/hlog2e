@@ -17,34 +17,34 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    10 hrs 16 mins      ████████████░░░░░░░░░░░░░   49.99 % 
-Markdown                 6 hrs               ███████░░░░░░░░░░░░░░░░░░   29.28 % 
+Other                    10 hrs 14 mins      ████████████░░░░░░░░░░░░░   49.95 % 
+Markdown                 6 hrs               ███████░░░░░░░░░░░░░░░░░░   29.31 % 
 JavaScript               1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
 TypeScript               1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 Python                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 29 mins      ███████████████░░░░░░░░░░   60.81 % 
-Codex CLI                4 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Claude Code              3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Codex Vscode             36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+VS Code                  12 hrs 29 mins      ███████████████░░░░░░░░░░   60.86 % 
+Codex CLI                4 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+Claude Code              3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Codex Vscode             35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 💻 Operating System: 
-Mac                      20 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 27 mins (99.61%)
+⏱ AI Coding Time: 20 hrs 26 mins (99.61%)
 
 ✍️ 7,200 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 42,656,782 Input Tokens, 3,830,505 Output Tokens
+🔤 42,635,003 Input Tokens, 3,823,764 Output Tokens
 
-💵 $1325.79 Estimated AI Cost This Week
+💵 $1325.25 Estimated AI Cost This Week
 
-🧠 74 AI Sessions, 859 AI Prompts
+🧠 73 AI Sessions, 859 AI Prompts
 
 GPT                      4,404 lines         ███████████████░░░░░░░░░░   60.83 % 
 Opus                     1,452 lines         █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
@@ -60,5 +60,5 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 01/10/2026 22:51:26 UTC
+ Last Updated on 02/10/2026 22:27:09 UTC
 <!--END_SECTION:waka-->
