@@ -9,7 +9,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-540%20hrs%2051%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.48%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.74%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -17,42 +17,42 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 2 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   33.19 % 
-TypeScript               2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-Other                    1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Text                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-JavaScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Markdown                 1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   34.25 % 
+Other                    1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+Text                     37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+TypeScript               27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+JavaScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 4 mins        █████████████████████████   99.52 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Claude Code              4 hrs 3 mins        █████████████████████████   99.59 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-Mac                      7 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      4 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 6 mins (99.9%)
+⏱ AI Coding Time: 4 hrs 4 mins (100.0%)
 
-✍️ 4,749 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 2,182 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 9,083,593 Input Tokens, 1,443,113 Output Tokens
+🔤 6,232,973 Input Tokens, 732,636 Output Tokens
 
-💵 $175.27 Estimated AI Cost This Week
+💵 $106.71 Estimated AI Cost This Week
 
-🧠 99 AI Sessions, 104 AI Prompts
+🧠 31 AI Sessions, 61 AI Prompts
 
-Opus                     4,809 lines         █████████████████████████   100.00 % 
+Opus                     2,189 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 1,996 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.12% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,816 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/10/2026 22:31:30 UTC
+ Last Updated on 28/10/2026 22:48:21 UTC
 <!--END_SECTION:waka-->
