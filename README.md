@@ -1,6 +1,5 @@
 ## Contact Me
-<a href="https://instagram.com/_hongrok"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/HongRok @hlog2e-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>&nbsp;
+hr@ludi.kr
 
 ## Status
 
